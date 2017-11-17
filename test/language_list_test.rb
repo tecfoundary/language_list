@@ -7,7 +7,7 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_common_languages
-    assert_equal 81, LanguageList::COMMON_LANGUAGES.length
+    assert_equal 84, LanguageList::COMMON_LANGUAGES.length
   end
 
   def test_living_languages
@@ -15,7 +15,7 @@ class LanguageListTest < Minitest::Test
   end
 
   def test_iso_iso_639_1_languages
-    assert_equal 193, LanguageList::ISO_639_1.length
+    assert_equal 196, LanguageList::ISO_639_1.length
   end
 
   def test_find_by_iso_639_1
