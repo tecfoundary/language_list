@@ -15008,6 +15008,14 @@
   :common: true
   :type: :living
   :scope: :macro_language
+- :name: Farsi
+  :iso_639_1: fa
+  :iso_639_3: fas
+  :iso_639_2b: per
+  :iso_639_2t: fas
+  :common: true
+  :type: :living
+  :scope: :macro_language
 - :name: Fanti
   :iso_639_1:
   :iso_639_3: fat
