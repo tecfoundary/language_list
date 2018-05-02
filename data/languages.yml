@@ -15009,10 +15009,10 @@
   :type: :living
   :scope: :macro_language
 - :name: Farsi
-  :iso_639_1: fa
-  :iso_639_3: fas
-  :iso_639_2b: per
-  :iso_639_2t: fas
+  :iso_639_1: fsr
+  :iso_639_3: fsr
+  :iso_639_2b: fsr
+  :iso_639_2t: fsr
   :common: true
   :type: :living
   :scope: :macro_language
