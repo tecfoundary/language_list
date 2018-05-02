@@ -15008,6 +15008,14 @@
   :common: true
   :type: :living
   :scope: :macro_language
+- :name: Farsi
+  :iso_639_1: fsr
+  :iso_639_3: fsr
+  :iso_639_2b: fsr
+  :iso_639_2t: fsr
+  :common: true
+  :type: :living
+  :scope: :macro_language
 - :name: Fanti
   :iso_639_1:
   :iso_639_3: fat
