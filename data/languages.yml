@@ -25545,10 +25545,10 @@
   :type: :living
   :scope: :individual
 - :name: Krio
-  :iso_639_1:
+  :iso_639_1: kri
   :iso_639_3: kri
-  :iso_639_2b:
-  :iso_639_2t:
+  :iso_639_2b: kri
+  :iso_639_2t: kri
   :common: true
   :type: :living
   :scope: :individual
