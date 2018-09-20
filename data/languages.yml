@@ -19813,7 +19813,7 @@
   :iso_639_3: ibo
   :iso_639_2b: ibo
   :iso_639_2t: ibo
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ibuoro
@@ -25549,7 +25549,7 @@
   :iso_639_3: kri
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Kinaray-A
@@ -59685,7 +59685,7 @@
   :iso_639_3: yor
   :iso_639_2b: yor
   :iso_639_2t: yor
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Yos
@@ -61725,6 +61725,14 @@
   :iso_639_3:
   :iso_639_2b:
   :iso_639_2t:
+  :common: true
+  :type: :living
+  :scope: :individual
+- :name: Ibo
+  :iso_639_1: ibc
+  :iso_639_3: ibc
+  :iso_639_2b: ibc
+  :iso_639_2t: ibc
   :common: true
   :type: :living
   :scope: :individual
