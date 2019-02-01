@@ -2984,7 +2984,7 @@
   :type: :living
   :scope: :individual
 - :name: Australian Sign Language
-  :iso_639_1:
+  :iso_639_1: asf
   :iso_639_3: asf
   :iso_639_2b:
   :iso_639_2t:
@@ -3064,7 +3064,7 @@
   :type: :living
   :scope: :individual
 - :name: Auslan
-  :iso_639_1:
+  :iso_639_1: asp
   :iso_639_3: asp
   :iso_639_2b:
   :iso_639_2t:
@@ -3120,7 +3120,7 @@
   :type: :living
   :scope: :individual
 - :name: Indigenous Sign Language
-  :iso_639_1:
+  :iso_639_1: asw
   :iso_639_3: asw
   :iso_639_2b:
   :iso_639_2t:
@@ -20329,7 +20329,7 @@
   :type: :living
   :scope: :individual
 - :name: Sign Language
-  :iso_639_1:
+  :iso_639_1: ils
   :iso_639_3: ils
   :iso_639_2b:
   :iso_639_2t:
