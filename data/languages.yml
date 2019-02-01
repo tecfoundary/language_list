@@ -2984,11 +2984,11 @@
   :type: :living
   :scope: :individual
 - :name: Australian Sign Language
-  :iso_639_1:
+  :iso_639_1: asf
   :iso_639_3: asf
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Cishingini
@@ -3063,12 +3063,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Algerian Sign Language
-  :iso_639_1:
+- :name: Auslan
+  :iso_639_1: asp
   :iso_639_3: asp
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Austrian Sign Language
@@ -3119,12 +3119,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Australian Aborigines Sign Language
-  :iso_639_1:
+- :name: Indigenous Sign Language
+  :iso_639_1: asw
   :iso_639_3: asw
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Muratayak
@@ -20328,12 +20328,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: International Sign
-  :iso_639_1:
+- :name: Sign Language
+  :iso_639_1: ils
   :iso_639_3: ils
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ili'uun
