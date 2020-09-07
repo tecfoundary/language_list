@@ -823,12 +823,12 @@
   :common: false
   :type: :living
   :scope: :individual
-- :name: Eastern Arrernte
+- :name: Arrernte
   :iso_639_1:
   :iso_639_3: aer
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Alsea
@@ -1924,7 +1924,7 @@
   :iso_639_3: aly
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Alur
@@ -41405,7 +41405,7 @@
   :iso_639_3: pjt
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Ardhamāgadhī Prākrit
@@ -54997,7 +54997,7 @@
   :iso_639_3: wbp
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Waddar
@@ -56029,7 +56029,7 @@
   :iso_639_3: wrm
   :iso_639_2b:
   :iso_639_2t:
-  :common: false
+  :common: true
   :type: :living
   :scope: :individual
 - :name: Warnang
