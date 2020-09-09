@@ -824,7 +824,7 @@
   :type: :living
   :scope: :individual
 - :name: Arrernte
-  :iso_639_1:
+  :iso_639_1: aer
   :iso_639_3: aer
   :iso_639_2b:
   :iso_639_2t:
@@ -1920,7 +1920,7 @@
   :type: :living
   :scope: :individual
 - :name: Alyawarr
-  :iso_639_1:
+  :iso_639_1: aly
   :iso_639_3: aly
   :iso_639_2b:
   :iso_639_2t:
@@ -41401,7 +41401,7 @@
   :type: :living
   :scope: :individual
 - :name: Pitjantjatjara
-  :iso_639_1:
+  :iso_639_1: pjt
   :iso_639_3: pjt
   :iso_639_2b:
   :iso_639_2t:
@@ -54993,7 +54993,7 @@
   :type: :living
   :scope: :individual
 - :name: Warlpiri
-  :iso_639_1:
+  :iso_639_1: wbp
   :iso_639_3: wbp
   :iso_639_2b:
   :iso_639_2t:
@@ -56025,7 +56025,7 @@
   :type: :living
   :scope: :individual
 - :name: Warumungu
-  :iso_639_1:
+  :iso_639_1: wrm
   :iso_639_3: wrm
   :iso_639_2b:
   :iso_639_2t:
